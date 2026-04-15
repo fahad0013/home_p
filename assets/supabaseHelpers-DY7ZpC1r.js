@@ -1,0 +1,1 @@
+async function o(n,t=1e3){let e=[],l=0;for(;;){const{data:r,error:a}=await n.range(l,l+t-1);if(a)throw console.error("Error in fetchAll:",a),a;if(!r||r.length===0||(e=e.concat(r),r.length<t))break;l+=t}return e}export{o as f};
