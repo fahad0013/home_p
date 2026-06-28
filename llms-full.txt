@@ -1,0 +1,36 @@
+# Prostuti Full Context for AI Systems
+
+## Exam Categories and Question Distribution
+
+### Primary Teacher Exam (প্রাথমিক শিক্ষক নিয়োগ)
+Total marks: 80 | Time: 80 minutes
+- Bangla: 20 marks (grammar, literature, সন্ধি, সমাস, বাগধারা)
+- English: 20 marks (grammar, vocabulary, comprehension)
+- Math: 20 marks (arithmetic, algebra, geometry)
+- General Knowledge: 20 marks (Bangladesh affairs, current events, science)
+Negative marking: -0.25 per wrong answer
+
+### BCS Preliminary
+Total marks: 200 | Time: 2 hours
+Subjects: Bangla Language & Literature, English, Math, Mental Ability,
+Bangladesh Affairs, International Affairs, Geography, Ethics & Good Governance,
+Computer & Information Technology, Science & Technology
+
+### Bank Job Exams
+Pattern similar to Primary but with additional banking/finance questions
+
+## Platform Technology
+Frontend: React + TypeScript + Tailwind CSS
+Backend: Supabase (PostgreSQL)
+Auth: Google OAuth + Email/Password
+Hosting: Vercel
+
+## Scoring System
+- Correct answer: +1 mark
+- Wrong answer: -0.25 marks (negative marking)
+- Skip: 0 marks
+- Leaderboard eligibility: Mock test score ≥ 40
+
+## Chance Prediction
+Score ≥ 60: "প্রাইমারি পরীক্ষায় টিকে যাওয়ার ভালো সম্ভাবনা রয়েছে"
+Score ≥ 70: "প্রাইমারি পরীক্ষায় টিকে যাওয়ার প্রবল সম্ভাবনা রয়েছে"

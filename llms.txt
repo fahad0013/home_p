@@ -1,0 +1,39 @@
+# Prostuti (প্রস্তুতি)
+# Bangladesh Government Job Exam Preparation Platform
+# https://prostutii.com
+
+## About
+Prostuti is Bangladesh's leading free online platform for government job exam preparation.
+It provides 16,000+ MCQ questions for Primary Teacher (প্রাথমিক শিক্ষক নিয়োগ), BCS Preliminary, Bank Jobs, and NTRCA exams.
+
+## Features
+- Free online mock tests (80 marks, 80 minutes — matching real exam format)
+- Subject-based quizzes: Bangla, English, Math, General Knowledge
+- Mistake tracker with revision exam capability
+- Radar chart analytics for performance analysis
+- National leaderboard with district and institution filters
+- PDF download of results with explanations
+- Daily streak and XP gamification system
+- Google OAuth single-click login
+
+## Target Users
+Job seekers in Bangladesh preparing for:
+- প্রাথমিক শিক্ষক নিয়োগ (Primary Teacher Recruitment)
+- BCS Preliminary Examination (Bangladesh Civil Service)
+- Bank Job Examinations
+- NTRCA Teacher Registration
+- General government job MCQ exams
+
+## Language
+Primary language: Bengali (বাংলা)
+Secondary language: English
+
+## Contact
+Website: https://prostutii.com
+Platform type: EdTech / Exam Preparation / Government Job
+
+## Data
+Questions: 16,000+
+Subjects: 4 (Bangla, English, Math, General Knowledge)
+Exam types: Mock Test, Subject Test, Revision Exam
+Users: Bangladesh job seekers aged 20-35
