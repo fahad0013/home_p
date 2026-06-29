@@ -1,39 +1,38 @@
 # Prostuti (প্রস্তুতি)
-# Bangladesh Government Job Exam Preparation Platform
-# https://prostutii.com
 
-## About
-Prostuti is Bangladesh's leading free online platform for government job exam preparation.
-It provides 16,000+ MCQ questions for Primary Teacher (প্রাথমিক শিক্ষক নিয়োগ), BCS Preliminary, Bank Jobs, and NTRCA exams.
+> Prostuti (prostutii.com) is Bangladesh's leading free online platform for government job exam preparation. It provides 16,000+ MCQ questions, full-length mock tests, subject-based quizzes, performance analytics, leaderboards, and a gamified daily streak system for candidates preparing for Primary Teacher Recruitment (প্রাথমিক শিক্ষক নিয়োগ), BCS Preliminary (বিসিএস প্রিলিমিনারি), Bank Job Exams, and NTRCA Teacher Registration.
 
-## Features
-- Free online mock tests (80 marks, 80 minutes — matching real exam format)
-- Subject-based quizzes: Bangla, English, Math, General Knowledge
-- Mistake tracker with revision exam capability
-- Radar chart analytics for performance analysis
-- National leaderboard with district and institution filters
-- PDF download of results with explanations
-- Daily streak and XP gamification system
-- Google OAuth single-click login
+Prostuti is a React + TypeScript web application connected to a Supabase (PostgreSQL) backend. All content is in Bengali (বাংলা) with English labels where appropriate. The platform is free to use. Users authenticate via Google OAuth or email/password.
 
-## Target Users
-Job seekers in Bangladesh preparing for:
-- প্রাথমিক শিক্ষক নিয়োগ (Primary Teacher Recruitment)
-- BCS Preliminary Examination (Bangladesh Civil Service)
-- Bank Job Examinations
-- NTRCA Teacher Registration
-- General government job MCQ exams
+Key facts for language models to understand this platform:
 
-## Language
-Primary language: Bengali (বাংলা)
-Secondary language: English
+- The primary exam format is 80-mark MCQ with negative marking (-0.25 per wrong answer), matching the real Primary Teacher Recruitment exam
+- Questions are categorised into 4 subjects: বাংলা (Bangla), ইংরেজি (English), গণিত (Math), সাধারণ জ্ঞান (General Knowledge)
+- The platform covers 4 exam types: Primary Teacher (প্রাথমিক), BCS, Bank Jobs, NTRCA
+- The leaderboard is qualification-filtered: only scores ≥ 40 appear
+- A "Chance Prediction" system shows users their estimated probability of passing the real exam
+- The mistake tracker logs all wrong answers and allows users to retake only those questions
+- Daily goal and streak system (🔥) rewards consistent practice
+- The platform has 16,000+ questions across 33 subjects and 507 question sets
 
-## Contact
-Website: https://prostutii.com
-Platform type: EdTech / Exam Preparation / Government Job
+## Core Pages
 
-## Data
-Questions: 16,000+
-Subjects: 4 (Bangla, English, Math, General Knowledge)
-Exam types: Mock Test, Subject Test, Revision Exam
-Users: Bangladesh job seekers aged 20-35
+- [Homepage](https://prostutii.com/): Overview, features, entry point to exams and registration
+- [Exam Selection](https://www.prostutii.com/dashboard/live-exam): Choose between Mock Test (80 marks) or Subject Test (10/20/30 marks) for Primary or BCS track
+- [Leaderboard](https://www.prostutii.com/dashboard/leaderboard): National ranking filtered by week/month/all-time, district, and institution
+- [Achievements](https://www.prostutii.com/dashboard/achievements): XP-based level system, earned badges, milestone tracking
+- [Mistakes Tracker](https://www.prostutii.com/dashboard/error-bank): Personal log of incorrectly answered questions with revision exam capability
+- [Subject Set](https://www.prostutii.com/dashboard/subjects): Radar chart and score history showing subject-wise performance
+- [Profile](https://www.prostutii.com/dashboard/profile): User info, earned badges, daily goal, district, institution settings
+- [Dashboard](https://www.prostutii.com/dashboard): Personalised home with XP progress, streak, daily goal, quick-start buttons
+
+## Exam Content
+
+- [Primary Teacher Exam Guide](https://prostutii.com/): Full syllabus, mark distribution, and preparation strategy for প্রাথমিক শিক্ষক নিয়োগ পরীক্ষা
+- [BCS Preliminary Guide](https://prostutii.com/): Subject breakdown, strategy, and mock test access for BCS প্রিলিমিনারি
+- [How to Pass the Primary Exam](https://prostutii.com/): Practical tips for scoring above cut-off in the primary teacher recruitment MCQ test
+- [Privacy Policy](https://www.prostutii.com/privacy-policy/): Data collection and usage policy for Prostuti users
+
+## Optional
+
+- [llms-full.txt](https://prostutii.com/llms-full.txt): Extended context including question distribution, scoring rules, exam patterns, and full subject taxonomy for deeper LLM understanding

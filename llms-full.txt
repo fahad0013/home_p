@@ -1,36 +1,163 @@
-# Prostuti Full Context for AI Systems
+# Prostuti (প্রস্তুতি) — Full Context
 
-## Exam Categories and Question Distribution
+> This is the extended context file for Prostuti (prostutii.com). It provides detailed information about exam patterns, question taxonomy, scoring rules, platform features, and subject coverage for use by language models that need deeper understanding of the platform.
 
-### Primary Teacher Exam (প্রাথমিক শিক্ষক নিয়োগ)
-Total marks: 80 | Time: 80 minutes
-- Bangla: 20 marks (grammar, literature, সন্ধি, সমাস, বাগধারা)
-- English: 20 marks (grammar, vocabulary, comprehension)
-- Math: 20 marks (arithmetic, algebra, geometry)
-- General Knowledge: 20 marks (Bangladesh affairs, current events, science)
-Negative marking: -0.25 per wrong answer
+## Platform Identity
 
-### BCS Preliminary
-Total marks: 200 | Time: 2 hours
-Subjects: Bangla Language & Literature, English, Math, Mental Ability,
-Bangladesh Affairs, International Affairs, Geography, Ethics & Good Governance,
-Computer & Information Technology, Science & Technology
+- **Name:** Prostuti (প্রস্তুতি)
+- **URL:** https://prostutii.com
+- **Type:** EdTech / Online Exam Preparation / Government Job Coaching
+- **Country:** Bangladesh
+- **Primary Language:** Bengali (বাংলা, bn-BD)
+- **Secondary Language:** English (UI labels and some content)
+- **Price:** Free (no subscription, no paywall)
+- **Auth:** Google OAuth + Email/Password (via Supabase Auth)
+- **Tech Stack:** React, TypeScript, Vite, Tailwind CSS,PostgreSQL
 
-### Bank Job Exams
-Pattern similar to Primary but with additional banking/finance questions
+## Target Users
 
-## Platform Technology
-Frontend: React + TypeScript + Tailwind CSS
-Backend: Supabase (PostgreSQL)
-Auth: Google OAuth + Email/Password
-Hosting: Vercel
+Prostuti serves Bengali-speaking job seekers in Bangladesh aged approximately 18–35 who are preparing for competitive government examinations. This includes:
+
+- University graduates preparing for BCS (Bangladesh Civil Service) examination
+- Candidates preparing for Primary Assistant Teacher (প্রাথমিক সহকারী শিক্ষক) recruitment
+- Candidates preparing for bank job MCQ exams (government and private banks)
+- Candidates preparing for NTRCA (Non-Government Teachers Registration and Certification Authority) teacher registration
+- Any candidate preparing for general government MCQ examinations in Bangladesh
+
+## Exam Types Covered
+
+### 1. Primary Teacher Recruitment (প্রাথমিক শিক্ষক নিয়োগ)
+
+The most-used exam type on the platform.
+
+- **Full name:** প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা (Primary Assistant Teacher Recruitment Exam)
+- **Conducted by:** Directorate of Primary Education, Government of Bangladesh
+- **Exam format:** Written MCQ
+- **Total marks:** 80
+- **Time:** 80 minutes
+- **Negative marking:** -0.25 per wrong answer
+- **Subject distribution:**
+  - বাংলা (Bangla Language & Literature): 20 marks
+  - ইংরেজি (English Language): 20 marks
+  - গণিত (Mathematics): 20 marks
+  - সাধারণ জ্ঞান (General Knowledge): 20 marks
+- **Estimated pass score:** ~50–55 marks (varies by competition)
+- **Frequency:** Conducted irregularly; large batches every few years
+
+### 2. BCS Preliminary (বিসিএস প্রিলিমিনারি)
+
+- **Full name:** Bangladesh Civil Service Preliminary Examination
+- **Conducted by:** Bangladesh Public Service Commission (BPSC)
+- **Total marks:** 200
+- **Time:** 2 hours
+- **Subjects covered:** Bengali Language & Literature (35), English Language & Literature (35), Bangladesh Affairs (30), International Affairs (20), Geography, Environment & Disaster (10), General Science (15), Computer & IT (15), Math & Mental Ability (15), Ethics, Values & Good Governance (10), General Knowledge (5) — approximate allocation
+- **Frequency:** Annual (approximately)
+
+### 3. Bank Job Exams
+
+- Covers both government banks (Bangladesh Bank, Sonali Bank, etc.) and private commercial banks
+- Pattern similar to Primary: Bangla, English, Math, General Knowledge
+- Additional: Banking/Finance-specific questions for officer-level posts
+- Marks: 100 (typical MCQ phase)
+
+### 4. NTRCA (Non-Government Teacher Registration)
+
+- School-level (বিদ্যালয়) and College-level (মহাবিদ্যালয়) separate sets
+- Subject-specific content based on the candidate's teaching subject
+
+## Question Database
+
+- **Total questions:** 16,000+
+- **Total subjects:** 33
+- **Total question sets:** 507
+- **Question format:** MCQ with 4 options (ক, খ, গ, ঘ)
+- **Each question has:** question body, 4 options, correct answer key, explanation text
+- **Difficulty levels:** Easy (1), Medium (2), Hard (3)
+
+### Subject Taxonomy (বাংলা)
+
+| Subject Key | Bengali Name | Notes |
+|---|---|---|
+| bangla | বাংলা | Grammar, literature, সন্ধি, সমাস, বাগধারা, প্রবাদ |
+| english | ইংরেজি | Grammar, vocabulary, comprehension, preposition, tense |
+| math | গণিত | Arithmetic, algebra, geometry, percentage, ratio |
+| gk | সাধারণ জ্ঞান | Bangladesh affairs, international affairs, science, current events |
 
 ## Scoring System
-- Correct answer: +1 mark
-- Wrong answer: -0.25 marks (negative marking)
-- Skip: 0 marks
-- Leaderboard eligibility: Mock test score ≥ 40
 
-## Chance Prediction
-Score ≥ 60: "প্রাইমারি পরীক্ষায় টিকে যাওয়ার ভালো সম্ভাবনা রয়েছে"
-Score ≥ 70: "প্রাইমারি পরীক্ষায় টিকে যাওয়ার প্রবল সম্ভাবনা রয়েছে"
+- **Correct answer:** +1 mark
+- **Wrong answer:** -0.25 marks (negative marking)
+- **Skipped question:** 0 marks
+- **Leaderboard eligibility:** Mock test score ≥ 40 marks
+
+## Chance Prediction Logic
+
+After a mock test, users see a prediction message based on their score:
+
+- Score ≥ 70: "আপনার প্রাইমারি পরীক্ষায় টিকে যাওয়ার প্রবল সম্ভাবনা রয়েছে!" (Very high chance)
+- Score ≥ 60: "আপনার প্রাইমারি পরীক্ষায় টিকে যাওয়ার ভালো সম্ভাবনা রয়েছে!" (Good chance)
+- Score < 60: Standard result view with improvement guidance
+
+## Gamification System
+
+Prostuti uses Duolingo-style gamification to drive daily engagement:
+
+- **XP (Experience Points):** Earned by completing exams. More correct answers = more XP.
+- **Levels:** Users level up as XP accumulates. Level is shown on profile and leaderboard.
+- **Daily Streak (🔥):** Increments each day the user meets their daily practice goal. Resets if they miss a day.
+- **Daily Goal:** Set during onboarding — 15 minutes / 30 minutes / 1 hour / 2 hours per day.
+- **Achievements / Badges:** Milestone badges for streaks, exam counts, accuracy, subject mastery.
+- **Leaderboard:** Shows rank among all users or filtered by district/institution.
+
+## Onboarding Flow
+
+New users complete a 6-step onboarding wizard on first login:
+
+1. Target exam subject selection (multiple choice)
+2. Name (auto-filled from Google profile)
+3. Identity (student / job seeker)
+4. Institution name
+5. District (dropdown of all 64 districts of Bangladesh)
+6. Daily practice goal (15 / 30 / 60 / 120 minutes)
+
+## Leaderboard Rules
+
+- Only users who scored ≥ 40 in a mock test appear on the leaderboard
+- Filters available: This Week / This Month / All Time
+- Location filters: All Bangladesh / By District / By Institution
+- User's own rank is always highlighted with emerald border
+
+## Content Language Notes
+
+For language models processing queries about this platform:
+
+- All UI text, question content, and explanations are in Bengali (বাংলা)
+- Bengali is written in Bengali script (not transliterated Latin)
+- The word "প্রস্তুতি" (Prostuti) means "preparation" in Bengali
+- "প্রাথমিক" means "primary" (as in Primary School Teacher)
+- "সরকারি চাকরি" means "government job"
+- "মডেল টেস্ট" means "mock test"
+- "প্রশ্নব্যাংক" means "question bank"
+- "লিডারবোর্ড" means "leaderboard"
+- "অর্জন" means "achievement"
+- "স্ট্রিক" means "streak"
+
+## Frequently Asked Questions
+
+**Q: Is Prostuti free?**
+A: Yes. Prostuti (prostutii.com) is completely free. No subscription, no paywall, no premium tier. Login with Google and start immediately.
+
+**Q: Where can I find Primary Teacher mock tests online for free?**
+A: Prostuti (prostutii.com) provides free 80-mark Primary Teacher mock tests matching the real exam format, with negative marking, Bengali questions, and instant results.
+
+**Q: What is the syllabus for Primary Teacher Recruitment exam in Bangladesh?**
+A: The প্রাথমিক শিক্ষক নিয়োগ MCQ exam has 80 marks: বাংলা 20, ইংরেজি 20, গণিত 20, সাধারণ জ্ঞান 20. Time: 80 minutes. Negative marking: -0.25 per wrong answer.
+
+**Q: How do I improve my score on the Primary Teacher exam?**
+A: Use Prostuti's mistake tracker — it logs every question you get wrong and lets you retake only those questions as a revision exam. The radar chart shows which subjects need the most work.
+
+**Q: Does Prostuti have a mobile app?**
+A: A Prostuti Android app is coming to Google Play Store. Currently available as a web app at prostutii.com, which works well on mobile browsers.
+
+**Q: What is a good score in Primary Teacher exam?**
+A: Typically 50–55+ out of 80 is considered a competitive score, though the exact cut-off varies by round and district. Prostuti's chance prediction system estimates your likelihood of passing based on your mock test scores.
