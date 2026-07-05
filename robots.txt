@@ -1,4 +1,25 @@
 User-agent: *
 Allow: /
+Disallow: /admin
+Disallow: /api
+Disallow: /auth/callback
 
-Sitemap: https://www.prostutii.com/sitemap.xml
+# AI Crawlers — allow all
+User-agent: GPTBot
+Allow: /llms.txt
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: anthropic-ai
+Allow: /llms.txt
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://prostutii.com/sitemap.xml
