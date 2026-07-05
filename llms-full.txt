@@ -142,6 +142,19 @@ For language models processing queries about this platform:
 - "অর্জন" means "achievement"
 - "স্ট্রিক" means "streak"
 
+## Blog Content (Guides & Tips)
+
+- [Primary Teacher Job 2026 Preparation Guide](https://prostutii.com/blog/primary-teacher-job-2026-preparation-guide): প্রাথমিক শিক্ষক নিয়োগ ২০২৬ — সম্পূর্ণ প্রস্তুতি গাইড। ১০,২১৯+৪,১৬৬ পদে নিয়োগ বিজ্ঞপ্তি প্রকাশিত। সিলেবাস, মানবণ্টন, বিষয়ভিত্তিক কৌশল এবং বিনামূল্যে মক টেস্ট।
+- [Primary Teacher Exam Pass Tips](https://prostutii.com/blog/primary-teacher-exam-pass-tips): প্রাথমিক শিক্ষক নিয়োগ পরীক্ষায় পাস করার ১৫টি কার্যকর কৌশল। সময় ব্যবস্থাপনা থেকে নেগেটিভ মার্কিং এড়ানো — যা যা জানা দরকার।
+- [Primary Bangla Grammar Suggestion](https://prostutii.com/blog/primary-bangla-grammar-suggestion): সন্ধি, সমাস ও কারক — প্রাথমিক শিক্ষক নিয়োগ বাংলা সাজেশন। ব্যাকরণের সবচেয়ে বেশি আসা প্রশ্নগুলোর সমাধান ও নিয়ম।
+- [Primary English Grammar Preparation](https://prostutii.com/blog/primary-english-grammar-preparation): প্রাথমিক শিক্ষক নিয়োগ ইংরেজি প্রস্তুতি — জরুরি Grammar Rules। Tense, Preposition, Article — বাংলায় সহজভাবে বোঝানো।
+- [Primary Math Suggestion & Shortcut](https://prostutii.com/blog/primary-math-suggestion-shortcut): প্রাথমিক শিক্ষক গণিত সাজেশন — সহজ শর্টকাট পদ্ধতি। পাটিগণিত, লাভ-ক্ষতি ও অনুপাতের দ্রুত সমাধান কৌশল।
+- [BCS Preliminary 2026 Complete Guide](https://prostutii.com/blog/bcs-preliminary-2026-complete-guide): BCS প্রিলিমিনারি প্রস্তুতি ২০২৬ — সম্পূর্ণ সিলেবাস ও স্ট্র্যাটেজি। ২০০ নম্বরের মানবণ্টন ও বিষয়ভিত্তিক প্রস্তুতির রোডম্যাপ।
+- [Bank Job MCQ Preparation Guide](https://prostutii.com/blog/bank-job-mcq-preparation-guide): সরকারি ব্যাংক নিয়োগ পরীক্ষার প্রস্তুতি — MCQ গাইড। ব্যাংক জব MCQ পরীক্ষার সম্পূর্ণ প্রস্তুতি কৌশল।
+- [NTRCA Teacher Registration Preparation](https://prostutii.com/blog/ntrca-teacher-registration-preparation): NTRCA শিক্ষক নিবন্ধন পরীক্ষার প্রস্তুতি — সম্পূর্ণ গাইড। বিদ্যালয় ও মহাবিদ্যালয় পর্যায়ের নিবন্ধন পরীক্ষার প্রস্তুতি।
+- [General Knowledge: Liberation War & Constitution](https://prostutii.com/blog/general-knowledge-liberation-war-constitution): মুক্তিযুদ্ধ ও সংবিধান — সরকারি চাকরির GK প্রস্তুতি। সব সরকারি চাকরির পরীক্ষায় কমন আসা প্রশ্নগুলোর সংকলন।
+- [Free Online Mock Test Guide](https://prostutii.com/blog/free-online-mock-test-guide): ফ্রি অনলাইন মক টেস্ট গাইড — সরকারি চাকরির প্রস্তুতি। কীভাবে মক টেস্ট দিয়ে নিজের দুর্বলতা যাচাই করবেন।
+
 ## Frequently Asked Questions
 
 **Q: Is Prostuti free?**
