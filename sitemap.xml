@@ -1,162 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://prostutii.com</loc>
+    <loc>https://www.prostutii.com/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/tests</loc>
+    <loc>https://www.prostutii.com/privacy-policy/</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/leaderboard</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://prostutii.com/privacy-policy</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://prostutii.com/blog</loc>
+    <loc>https://www.prostutii.com/blog/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/category/bangla</loc>
+    <loc>https://www.prostutii.com/blog/category/bangla/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/category/english</loc>
+    <loc>https://www.prostutii.com/blog/category/english/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/category/math</loc>
+    <loc>https://www.prostutii.com/blog/category/math/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/category/gk</loc>
+    <loc>https://www.prostutii.com/blog/category/gk/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/category/primary</loc>
+    <loc>https://www.prostutii.com/blog/category/primary/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/category/bcs</loc>
+    <loc>https://www.prostutii.com/blog/category/bcs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/category/bank</loc>
+    <loc>https://www.prostutii.com/blog/category/bank/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/category/ntrca</loc>
+    <loc>https://www.prostutii.com/blog/category/ntrca/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/category/strategy</loc>
+    <loc>https://www.prostutii.com/blog/category/strategy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/category/tips</loc>
+    <loc>https://www.prostutii.com/blog/category/tips/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/primary-teacher-job-2026-preparation-guide</loc>
+    <loc>https://www.prostutii.com/blog/primary-teacher-job-2026-preparation-guide/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/primary-teacher-exam-pass-tips</loc>
+    <loc>https://www.prostutii.com/blog/primary-teacher-exam-pass-tips/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/primary-bangla-grammar-suggestion</loc>
+    <loc>https://www.prostutii.com/blog/primary-bangla-grammar-suggestion/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/primary-english-grammar-preparation</loc>
+    <loc>https://www.prostutii.com/blog/primary-english-grammar-preparation/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/primary-math-suggestion-shortcut</loc>
+    <loc>https://www.prostutii.com/blog/primary-math-suggestion-shortcut/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/bcs-preliminary-2026-complete-guide</loc>
+    <loc>https://www.prostutii.com/blog/bcs-preliminary-2026-complete-guide/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/bank-job-mcq-preparation-guide</loc>
+    <loc>https://www.prostutii.com/blog/bank-job-mcq-preparation-guide/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/ntrca-teacher-registration-preparation</loc>
+    <loc>https://www.prostutii.com/blog/ntrca-teacher-registration-preparation/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/general-knowledge-liberation-war-constitution</loc>
+    <loc>https://www.prostutii.com/blog/general-knowledge-liberation-war-constitution/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/free-online-mock-test-guide</loc>
+    <loc>https://www.prostutii.com/blog/free-online-mock-test-guide/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/primary-teacher-30-day-preparation-routine</loc>
+    <loc>https://www.prostutii.com/blog/primary-teacher-30-day-preparation-routine/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/negative-marking-avoid-strategy-mcq</loc>
+    <loc>https://www.prostutii.com/blog/negative-marking-avoid-strategy-mcq/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/bcs-vs-primary-teacher-preparation-comparison</loc>
+    <loc>https://www.prostutii.com/blog/bcs-vs-primary-teacher-preparation-comparison/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/government-job-preparation-without-coaching</loc>
+    <loc>https://www.prostutii.com/blog/government-job-preparation-without-coaching/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/bcs-47-48-syllabus-best-books</loc>
+    <loc>https://www.prostutii.com/blog/bcs-47-48-syllabus-best-books/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/current-affairs-bangladesh-international-2026</loc>
+    <loc>https://www.prostutii.com/blog/current-affairs-bangladesh-international-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://prostutii.com/blog/math-mcq-shortcut-techniques-job-exam</loc>
+    <loc>https://www.prostutii.com/blog/math-mcq-shortcut-techniques-job-exam/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.prostutii.com/blog/english-grammar-shortcut-memory-techniques/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.prostutii.com/blog/bank-job-preparation-beginner-guide/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.prostutii.com/blog/common-mistakes-government-job-exam-preparation/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.prostutii.com/blog/primary-teacher-viva-preparation-guide/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.prostutii.com/blog/primary-teacher-previous-year-questions-2024-25/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
