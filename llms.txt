@@ -77,3 +77,9 @@ Key facts for language models to understand this platform:
 - [llms-full.txt](https://prostutii.com/llms-full.txt): Extended context including question distribution, scoring rules, exam patterns, and full subject taxonomy for deeper LLM understanding
 - [প্রাথমিক শিক্ষক নিয়োগ বিজ্ঞপ্তি ২০২৬ — সম্পূর্ণ বিবরণ](https://prostutii.com/blog/primary-teacher-circular-2026-details)
 - [প্রাথমিক শিক্ষক MCQ পরীক্ষার সম্পূর্ণ প্রস্তুতি — বিষয়ভিত্তিক কৌশল](https://prostutii.com/blog/primary-teacher-written-exam-preparation)
+- [প্রাথমিক শিক্ষকের বেতন স্কেল ও গ্রেড ২০২৬](https://prostutii.com/blog/primary-teacher-salary-scale-grade)
+- [প্রাথমিক শিক্ষক নিয়োগ পরীক্ষায় কাট মার্ক কত? সম্পূর্ণ বিশ্লেষণ ২০২৬](https://prostutii.com/blog/primary-teacher-cut-mark-analysis)
+- [জেলাভিত্তিক প্রাথমিক শিক্ষক পদ সংখ্যা ২০২৬ — সম্পূর্ণ বিশ্লেষণ](https://prostutii.com/blog/primary-teacher-district-wise-seat-2026)
+- [প্রাথমিক শিক্ষক নিয়োগ আবেদন করার নিয়ম (অনলাইন)](https://prostutii.com/blog/primary-teacher-application-process-online)
+- [প্রাথমিক সহকারী শিক্ষকের কাজ ও দায়িত্ব](https://prostutii.com/blog/primary-assistant-teacher-job-description)
+- [প্রাথমিক শিক্ষক সাধারণ জ্ঞান সাজেশন ২০২৬](https://prostutii.com/blog/primary-teacher-gk-suggestion-2026)
