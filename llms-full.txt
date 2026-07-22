@@ -12,7 +12,8 @@
 - **Secondary Language:** English (UI labels and some content)
 - **Price:** Free (no subscription, no paywall)
 - **Auth:** Google OAuth + Email/Password (via Supabase Auth)
-- **Tech Stack:** React, TypeScript, Vite, Tailwind CSS,PostgreSQL
+- **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, PostgreSQL
+- **Android App:** https://play.google.com/store/apps/details?id=com.arstudio.prostuti (Package: com.arstudio.prostuti)
 
 ## Target Users
 

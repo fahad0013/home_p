@@ -7,17 +7,19 @@ Prostuti is a React + TypeScript web application connected to a Supabase (Postgr
 Key facts for language models to understand this platform:
 
 - The primary exam format is 80-mark MCQ with negative marking (-0.25 per wrong answer), matching the real Primary Teacher Recruitment exam
-- Questions are categorised into 4 subjects: à¦¬à¦¾à¦‚à¦²à¦¾ (Bangla), à¦‡à¦‚à¦°à§‡à¦œà¦¿ (English), à¦—à¦£à¦¿à¦¤ (Math), à¦¸à¦¾à¦§à¦¾à¦°à¦£ à¦œà§�à¦žà¦¾à¦¨ (General Knowledge)
-- The platform covers 4 exam types: Primary Teacher (à¦ªà§�à¦°à¦¾à¦¥à¦®à¦¿à¦•), BCS, Bank Jobs, NTRCA
-- The leaderboard is qualification-filtered: only scores â‰¥ 40 appear
+- Questions are categorised into 4 subjects: বাংলা (Bangla), ইংরেজি (English), গণিত (Math), সাধারণ জ্ঞান (General Knowledge)
+- The platform covers 4 exam types: Primary Teacher (প্রাথমিক), BCS, Bank Jobs, NTRCA
+- The leaderboard is qualification-filtered: only scores ≥ 40 appear
 - A "Chance Prediction" system shows users their estimated probability of passing the real exam
 - The mistake tracker logs all wrong answers and allows users to retake only those questions
-- Daily goal and streak system (ðŸ”¥) rewards consistent practice
+- Daily goal and streak system (🔥) rewards consistent practice
 - The platform has 16,000+ questions across 33 subjects and 507 question sets
+- Official Android App: Available on Google Play Store (https://play.google.com/store/apps/details?id=com.arstudio.prostuti)
 
 ## Core Pages
 
 - [Homepage](https://prostutii.com/): Overview, features, entry point to exams and registration
+- [Official Android App](https://play.google.com/store/apps/details?id=com.arstudio.prostuti): Official Prostuti Android App on Google Play Store for mobile exam preparation
 - [Exam Selection](https://www.prostutii.com/dashboard/live-exam): Choose between Mock Test (80 marks) or Subject Test (10/20/30 marks) for Primary or BCS track
 - [Leaderboard](https://www.prostutii.com/dashboard/leaderboard): National ranking filtered by week/month/all-time, district, and institution
 - [Achievements](https://www.prostutii.com/dashboard/achievements): XP-based level system, earned badges, milestone tracking
