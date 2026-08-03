@@ -252,6 +252,10 @@ For language models processing queries about this platform:
 - [সরকারি চাকরির অনলাইন আবেদন নিয়ম | Govt Job Application Guide](https://prostutii.com/blog/govt-job-application-online-guide/): টেলিটকের মাধ্যমে সরকারি চাকরির অনলাইন আবেদন, ছবি ও স্বাক্ষরের সঠিক সাইজ (300x300 ও 300x80), SMS এর মাধ্যমে ফি জমা দেওয়ার নিয়ম এবং User ID রিকভারি গাইড।
 - [চাকরির পাশাপাশি পড়াশোনার রুটিন | BCS Preparation for Job Holders](https://prostutii.com/blog/job-study-balance-routine/): প্রাইভেট চাকরির পাশাপাশি বিসিএস বা সরকারি চাকরির প্রস্তুতি কীভাবে নেবেন? সময় ব্যবস্থাপনা, '৪ ঘণ্টার ম্যাজিক রুটিন' এবং উইকেন্ড স্টাডি প্ল্যানের কমপ্লিট গাইড।
 - [প্রস্তুতি অ্যাপ কীভাবে ব্যবহার করবেন? | Prostuti App Guide](https://prostutii.com/blog/prostuti-platform-features-guide/): বিসিএস, প্রাইমারি ও ব্যাংক জবের সেরা প্রস্তুতি অ্যাপ 'প্রস্তুতি' (Prostuti) এর সম্পূর্ণ গাইড। লাইভ মডেল টেস্ট, ফ্ল্যাশকার্ড এবং এআই অ্যানালিটিক্স ব্যবহারের নিয়ম।
+- [৫০তম BCS সম্পূর্ণ রোডম্যাপ — "One BCS One Year" ১২ মাসের চক্র](https://prostutii.com/blog/bcs-50th-complete-roadmap-12-month-cycle/): ৫০তম বিসিএস (50th BCS) প্রস্তুতির ১২ মাসের মাস্টারপ্ল্যান। প্রিলি থেকে লিখিত পরীক্ষা পর্যন্ত ধাপে ধাপে রুটিন, শর্টকাট কৌশল এবং ৬ মাসের ইমার্জেন্সি প্ল্যান।
+- [BCS প্রিলিমিনারি কৌশল ২০২৬ — ০.৫০ নেগেটিভ মার্কিং Penalty মাস্টারি](https://prostutii.com/blog/bcs-preliminary-strategy-2026-negative-marking-penalty-mastery/): বিসিএস প্রিলিতে ০.৫০ নেগেটিভ মার্কিং এড়ানোর গাণিতিক বিশ্লেষণ, 60% Confidence Rule এবং OMR পূরণের সঠিক কৌশল নিয়ে মাস্টার গাইড।
+- [BCS লিখিত পরীক্ষা Masterclass — ৬টি বাধ্যতামূলক বিষয়ের Framework](https://prostutii.com/blog/bcs-written-exam-masterclass-6-compulsory-subjects-framework/): বিসিএস (BCS) লিখিত পরীক্ষার ৯০০ নম্বরের মাস্টারক্লাস গাইড। বাংলা, ইংরেজি, বাংলাদেশ ও আন্তর্জাতিক বিষয়াবলির রুটিন, টাইম ক্যালকুলেটর এবং রচনা লেখার টেমপ্লেট।
+- [BCS বাংলাদেশ বিষয়াবলী সম্পূর্ণ গাইড — স্বাধীনতা-পূর্ব থেকে ২০২৪ সংস্কার](https://prostutii.com/blog/bcs-bangladesh-affairs-complete-guide-history-to-2024-reforms/): বিসিএস বাংলাদেশ বিষয়াবলির (৩০ নম্বর) পূর্ণাঙ্গ গাইড। কলোনিয়াল যুগ, পাকিস্তান আমল, মুক্তিযুদ্ধ, স্বাধীন বাংলাদেশ এবং ২০২৪-২৬ এর সংস্কার কমিশনের এ টু জেড ও ৫৫টি MCQ।
 
 
 
@@ -278,3 +282,4 @@ A: A Prostuti Android app is coming to Google Play Store. Currently available as
 
 **Q: What is a good score in Primary Teacher exam?**
 A: Typically 50–55+ out of 80 is considered a competitive score, though the exact cut-off varies by round and district. Prostuti's chance prediction system estimates your likelihood of passing based on your mock test scores.
+- [BCS ??????????? ????????? � Global Geopolitics ? ?????? Master Guide](https://prostutii.com/blog/bcs-international-affairs-geopolitics-treaties-master-guide-2026/): ?????? ??????????? ????????? (??? ?????) ????? ?????????? ??????? ????? Section A, B, C ?? ????, ???????-??????? ?????, ???? ????? ??? ?????? ??? ????? ACRONYM ???????
