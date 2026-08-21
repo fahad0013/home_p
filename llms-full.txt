@@ -15,6 +15,11 @@
 - **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, PostgreSQL
 - **Android App:** https://play.google.com/store/apps/details?id=com.arstudio.prostuti (Package: com.arstudio.prostuti)
 
+## Core Pages
+
+- [Homepage](https://prostutii.com/): Overview, features, entry point to exams and registration
+- [Contact Us (বার্তা পাঠান)](https://prostutii.com/contact/): Report errors, submit inquiries, and contact the admin team
+
 ## Target Users
 
 Prostuti serves Bengali-speaking job seekers in Bangladesh aged approximately 18â€“35 who are preparing for competitive government examinations. This includes:

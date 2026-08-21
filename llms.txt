@@ -19,6 +19,7 @@ Key facts for language models to understand this platform:
 ## Core Pages
 
 - [Homepage](https://prostutii.com/): Overview, features, entry point to exams and registration
+- [Contact Us (বার্তা পাঠান)](https://prostutii.com/contact/): Report errors, submit inquiries, and contact the admin team
 - [Official Android App](https://play.google.com/store/apps/details?id=com.arstudio.prostuti): Official Prostuti Android App on Google Play Store for mobile exam preparation
 - [Exam Selection](https://www.prostutii.com/dashboard/live-exam): Choose between Mock Test (80 marks) or Subject Test (10/20/30 marks) for Primary or BCS track
 - [Leaderboard](https://www.prostutii.com/dashboard/leaderboard): National ranking filtered by week/month/all-time, district, and institution
