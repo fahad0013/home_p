@@ -60,4 +60,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.prostutii.com/global/comptia-security/security-plus-practice-questions-threats-vulnerabilities/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.prostutii.com/global/comptia-security/security-plus-acronyms-ports-cheat-sheet/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
