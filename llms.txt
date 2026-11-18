@@ -178,3 +178,30 @@
 - [আন্তর্জাতিক সাম্প্রতিক সাধারণ জ্ঞান ২০২৬ — প্রধান যুদ্ধ, বৈশ্বিক চুক্তি, কূটনীতি ও বিশ্বরাজনীতি MCQ](https://www.prostutii.com/blog/international-current-affairs-gk-questions-answers-2026/): আন্তর্জাতিক সাধারণ জ্ঞান প্রশ্ন ও উত্তর ২০২৬। মধ্যপ্রাচ্য সংঘাত, রাশিয়া-ইউক্রেন যুদ্ধ, ন্যাটো, ব্রিকস সামিট এবং বৈশ্বিক কূটনীতির ১০০টি বাছাইকৃত MCQ গাইড।
 - [সাম্প্রতিক চাকরির পরীক্ষার প্রশ্ন সমাধান ২০২৬: বিসিএস ও ব্যাংক](https://www.prostutii.com/blog/recent-job-exam-questions-solution-gk-2026/): ২০২৬ সালের বিসিএস, ব্যাংক, প্রাইমারি এবং বিভিন্ন মন্ত্রণালয়ের নিয়োগ পরীক্ষায় আসা সাম্প্রতিক সাধারণ জ্ঞান (GK) প্রশ্নের ব্যাখ্যাসহ ১০০% নির্ভুল সমাধান গাইড।
 - [মাসভিত্তিক সাম্প্রতিক সাধারণ জ্ঞান ২০২৬: প্রতি মাসের সেরা তথ্য ও MCQ](https://www.prostutii.com/blog/month-wise-current-affairs-digest-2026-bangla/): মাসভিত্তিক সাম্প্রতিক সাধারণ জ্ঞান ২০২৬। জানুয়ারি থেকে ডিসেম্বর পর্যন্ত প্রতি মাসের শীর্ষ জাতীয় ও আন্তর্জাতিক ঘটনাপ্রবাহ, অর্থনীতি, খেলাধুলা ও পরীক্ষার স্পেশাল MCQ গাইড।
+
+---
+
+# Prostutii Global - Independent IT & Cloud Certification Guides
+
+> Prostutii Global (https://www.prostutii.com/global/) is an independent, fact-checked technical certification publication designed for Tier-1 professionals (US, UK, CA, AU). It provides rigorous domain comparisons, exam transition timelines, and curriculum breakdowns across 10 specialized certification and tech interview tracks.
+
+- **Global Hub:** https://www.prostutii.com/global/
+- **Editorial Policy:** Strict primary-source verification against certifying body blueprints; zero braindumps or leaked exam material.
+- **Coverage Tracks:** CompTIA Security+, CompTIA A+, Data Analyst Take-Homes (SQL & Python), Junior DevOps Scenarios, Tier-1 SOC Analyst, Agile & PMI-CAPM, Cloud Fundamentals (AWS & Azure), Healthcare Administration Assessments, Instructional Design & E-Learning, and Workflow Automation & No-Code Ops.
+
+## Active Certification Hubs & Published Guides
+
+- [CompTIA Security+ Hub](https://www.prostutii.com/global/comptia-security/): Preparation guides, domain weightings, and timeline analysis for SY0-701 & SY0-801.
+- [CompTIA Security+ SY0-701 vs SY0-801: Which Exam Should You Take?](https://www.prostutii.com/global/comptia-security/sy0-701-vs-sy0-801-which-exam-to-take/): Deciding between CompTIA Security+ SY0-701 and SY0-801? Compare domain weightings, AI topic shifts, retirement timelines, and choose the right version for your career.
+- [Security+ 701 or 801? Free Exam Decision Calculator](https://www.prostutii.com/global/comptia-security/security-plus-701-or-801-decision-calculator/): Enter your study progress and exam date to see whether Security+ SY0-701 or SY0-801 fits you, based on CompTIA’s published launch and retirement dates.
+- [Security+ 701 to 801: What to Add, What to Drop (2026)](https://www.prostutii.com/global/comptia-security/security-plus-701-to-801-upgrade-guide/): Switching from SY0-701 to SY0-801? See what carries over, what’s new (AI risks), how domain weights shifted, and a 1-2 week bridge study plan.
+- [Security+ SY0-801 AI Security Scenarios Explained](https://www.prostutii.com/global/comptia-security/security-plus-801-ai-security-scenarios/): Learn the SY0-801 AI security topics through three realistic tickets: prompt injection, data poisoning and deepfake fraud, with defenses and self-checks.
+- [Security+ Practice Questions: General Security Concepts](https://www.prostutii.com/global/comptia-security/security-plus-practice-questions-general-security-concepts/): 20 original Security+ practice questions on controls, CIA, AAA, zero trust, change management and cryptography, with an explanation for every answer.
+
+## Trust & Editorial Standards
+
+- [About Prostutii Global](https://www.prostutii.com/global/about/): Platform mission and curriculum standards
+- [Editorial & Fact-Checking Policy](https://www.prostutii.com/global/editorial-policy/): Technical accuracy guidelines and verification protocols
+- [Legal & Certification Disclaimer](https://www.prostutii.com/global/disclaimer/): Non-affiliation disclosures and trademark acknowledgments
+- [Privacy Policy](https://www.prostutii.com/global/privacy/): Data handling and zero-tracking commitment
+- [Contact & Support](https://www.prostutii.com/global/contact/): Editorial corrections and technical inquiries
