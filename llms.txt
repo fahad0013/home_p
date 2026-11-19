@@ -199,6 +199,8 @@
 - [Security+ Practice Questions: General Security Concepts](https://www.prostutii.com/global/comptia-security/security-plus-practice-questions-general-security-concepts/): 20 original Security+ practice questions on controls, CIA, AAA, zero trust, change management and cryptography, with an explanation for every answer.
 - [Security+ Practice Questions: Threats and Vulnerabilities](https://www.prostutii.com/global/comptia-security/security-plus-practice-questions-threats-vulnerabilities/): 20 original Security+ practice questions on threats, attacks, vulnerabilities, mitigations and log analysis, with a full explanation for every answer.
 - [Security+ Acronyms and Ports Cheat Sheet (701 and 801)](https://www.prostutii.com/global/comptia-security/security-plus-acronyms-ports-cheat-sheet/): Printable Security+ cheat sheet: common ports with secure options, nearly 100 acronyms by domain, confused pairs and memory tips for SY0-701 and SY0-801.
+- [Security+ 4-Week Study Plan: Daily Schedule (701 and 801)](https://www.prostutii.com/global/comptia-security/security-plus-4-week-study-plan/): A day-by-day 4-week Security+ study plan for SY0-701 and SY0-801, with weekly checkpoints, domain-weighted hours, an 8-week option and exam-day tips.
+- [How to Solve Security+ Performance-Based Questions](https://www.prostutii.com/global/comptia-security/security-plus-pbq-guide/): Learn how Security+ PBQs work, a five-step method and four original practice formats with solutions: matching, firewall rules, logs and policy settings.
 
 ## Trust & Editorial Standards
 
